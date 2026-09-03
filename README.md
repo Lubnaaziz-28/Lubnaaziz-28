@@ -18,9 +18,9 @@
 
 I don't just research ML. I build it, ship it, and prove it works.
 
-- **PhD Computer Vision** (UTM Malaysia, 2022) — published CV architecture that improved mAP by 7% at zero additional compute cost
-- **20+ publications** | **571 citations** | **h-index 8**
-- **Head of AI Department** at IQRA University — running a team of 6 researchers, supervising 2 PhD + 3 Master's students
+- **PhD Computer Vision** (UTM Malaysia, 2022), published CV architecture that improved mAP by 7% at zero additional compute cost
+- **20+ publications**, **571 citations**, **h-index 8**
+- **Head of AI Department** at IQRA University, running a team of 6 researchers, supervising 2 PhD + 3 Master's students
 - **Production systems**: sub-100ms inference, RAG pipelines, LLM fine-tuning, medical imaging diagnostics
 
 ---
@@ -146,7 +146,7 @@ Geospatial · Fraud Detection
 
 **ML Engineer / Research Scientist roles** in Netherlands, Germany, or remote EU. Visa sponsorship required.
 
-I thrive in teams that value shipping + research depth over headcount. I build what I publish — every repo ties to a paper with real numbers.
+I thrive in teams that value shipping + research depth over headcount. I build what I publish, every repo ties to a paper with real numbers.
 
 ---
 
