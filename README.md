@@ -25,6 +25,16 @@ I don't just research ML. I build it, ship it, and prove it works.
 
 ---
 
+## Recent Activity
+
+- **Sep 2026** — Pushed 5 production-ready repos: mlrefinet-fpn, xai-medical-imaging, hybrid-rag, llm-finetune-lora, deepfake-detection
+- **Sep 2026** — Opened PR #9093 in Project-MONAI/MONAI (spatial shape constraints for UNETR)
+- **Sep 2026** — Updated CV and cover letter templates for academic and industry roles
+- **2025** — Published "Explainable AI for medical diagnostics" in *Scientific Reports*
+- **2022** — Published "Explainable Feature Pyramid Networks" in *IVC* (50+ citations)
+
+---
+
 ## Technical Arsenal
 
 <table>
