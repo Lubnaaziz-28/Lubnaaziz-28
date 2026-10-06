@@ -138,6 +138,18 @@ Geospatial · Fraud Detection
 
 ---
 
+## Pinned Projects
+
+| Repo | Description | Stars |
+|------|-------------|-------|
+| [mlrefinet-fpn](https://github.com/Lubnaaziz-28/mlrefinet-fpn) | Multi-Level Refinement Feature Pyramid Network — +7% mAP at zero extra cost (IVC 2021) | [![Stars](https://img.shields.io/github/stars/Lubnaaziz-28/mlrefinet-fpn?style=flat-square)]() |
+| [xai-medical-imaging](https://github.com/Lubnaaziz-28/xai-medical-imaging) | Explainable AI for medical diagnostics — 95.3% AUC, Grad-CAM + SHAP (Scientific Reports 2025) | [![Stars](https://img.shields.io/github/stars/Lubnaaziz-28/xai-medical-imaging?style=flat-square)]() |
+| [hybrid-rag](https://github.com/Lubnaaziz-28/hybrid-rag) | Hybrid dense+sparse RAG with citation grounding — FastAPI + Docker + ColPali | [![Stars](https://img.shields.io/github/stars/Lubnaaziz-28/hybrid-rag?style=flat-square)]() |
+| [llm-finetune-lora](https://github.com/Lubnaaziz-28/llm-finetune-lora) | LoRA/QLoRA fine-tuning for 7B-70B models — -40% hallucination, single GPU | [![Stars](https://img.shields.io/github/stars/Lubnaaziz-28/llm-finetune-lora?style=flat-square)]() |
+| [deepfake-detection](https://github.com/Lubnaaziz-28/deepfake-detection) | EfficientNet+LSTM temporal deepfake detection with Grad-CAM explainability | [![Stars](https://img.shields.io/github/stars/Lubnaaziz-28/deepfake-detection?style=flat-square)]() |
+
+---
+
 ## By the Numbers
 
 <table>
